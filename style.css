@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(97, 138, 150);
+}
+.top_div{
+    width: 500px;
+    background-color: rgb(148, 189, 142);
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid  black
+    
+}
+.class{
+    font-size: larger;
+}
+.title{
+    font-size:50px;
+}
+.text{
+   font-size: larger;
+   font-style: italic;
+}
+.credits{
+    padding: 12px;
+    border-color: black;
+    border-radius: 10px;
+}
+#username_input{
+    margin-bottom: 15px;
+}
+#Sign_in{
+    width: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+    background-color: rgb(30, 153, 48);
+    color:white
+    
+    
+}
